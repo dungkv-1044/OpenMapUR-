@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					C48913EB1F73546B00592928 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 39H8S9VB24;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,7 +261,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 39H8S9VB24;
 				INFOPLIST_FILE = DemoOpenURL/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dungkv.DemoOpenURL;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +275,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 39H8S9VB24;
 				INFOPLIST_FILE = DemoOpenURL/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dungkv.DemoOpenURL;
 				PRODUCT_NAME = "$(TARGET_NAME)";
